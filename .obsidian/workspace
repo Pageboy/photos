@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "fd64f167a1ca34e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7857582a037d9fd1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/Teaching/Design and Production/Week 3.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a00ecf9fdf7fc6b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f23e5802787f46ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d886f93a66ee3a62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "302b19685635cd1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "13fd9d4d78d9f053",
+    "type": "split",
+    "children": [
+      {
+        "id": "acbabeef705355f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f857988a98f3394",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Teaching/Design and Production/Week 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2a1bbf34a70f869",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/Teaching/Design and Production/Week 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fac2b580753629bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7857582a037d9fd1",
+  "lastOpenFiles": [
+    "docs/Teaching/Design and Production/Week 3.md",
+    "docs/Teaching/Design and Production/Week 2.md",
+    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+    "docs/Teaching/Design and Production/week1.md",
+    "docs/private/Multi-Platform module description r.md",
+    "docs/private/Jekyll Resources.md",
+    "docs/Teaching/Multiplatform Publishing/Week 12.md",
+    "docs/private/Music for Video.md",
+    "docs/private/art/Image sizes for export.md",
+    "conflict-files-obsidian-git.md"
+  ]
+}

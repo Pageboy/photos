@@ -1,0 +1,65 @@
+{
+  "appName": "GP3_NOTES",
+  "token": "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",
+  "model": "text-davinci-003",
+  "tokens": 300,
+  "temperature": 5,
+  "promptHistory": [
+    {
+      "prompt": "A recipe for Mousakka for 2 people",
+      "processedPrompt": "A recipe for Mousakka for 2 people",
+      "temperature": 0.5,
+      "tokens": 300
+    },
+    {
+      "prompt": "Write a blog post about Obsidian",
+      "processedPrompt": "Write a blog post about Obsidian",
+      "temperature": 0.5,
+      "tokens": 300
+    },
+    {
+      "prompt": "What are Giclee prints",
+      "processedPrompt": "What are Giclee prints",
+      "temperature": 0.5,
+      "tokens": 300
+    },
+    {
+      "prompt": "What is archival paper",
+      "processedPrompt": "What is archival paper",
+      "temperature": 0.5,
+      "tokens": 300
+    },
+    {
+      "prompt": "Write a blog post about being an artist who used Giclee prints as a medium",
+      "processedPrompt": "Write a blog post about being an artist who used Giclee prints as a medium",
+      "temperature": 0.5,
+      "tokens": 300
+    },
+    {
+      "prompt": "What are the specifications of the epub3 format",
+      "processedPrompt": "What are the specifications of the epub3 format",
+      "temperature": 0.5,
+      "tokens": 300
+    }
+  ],
+  "tokenParams": {
+    "prefix": [
+      "Write an essay",
+      "Write dashed notes",
+      "Write bullet notes",
+      "Write paragraphs",
+      "Write an article",
+      "Create a manual",
+      "Create an outline",
+      "Write a summary",
+      "Write a program",
+      "Write a blog post"
+    ],
+    "postfix": [
+      "with sources",
+      "with footnotes",
+      "with comments",
+      "with quotes"
+    ]
+  }
+}

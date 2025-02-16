@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "fd64f167a1ca34e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7e95d02051ea9ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7857582a037d9fd1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65afd27984de95d3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3b25b8add66005e1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "b55351a91aab4613",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "91c1b30114df10e0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "116068e2068c06e6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b4f8299207ff72f3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6499462ad57b1626",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7b3c31419b5f6ace",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "7857582a037d9fd1",
+  "lastOpenFiles": [
+    "docs/Teaching/Design and Production/Week 3.md",
+    "docs/Teaching/Design and Production/Week 2.md",
+    "docs/Teaching/Multiplatform Publishing/Week 1 Intro.md",
+    "docs/Teaching/Design and Production/week1.md",
+    "docs/private/Multi-Platform module description r.md",
+    "docs/private/Jekyll Resources.md",
+    "docs/Teaching/Multiplatform Publishing/Week 12.md",
+    "docs/private/Music for Video.md",
+    "docs/private/art/Image sizes for export.md",
+    "conflict-files-obsidian-git.md"
+  ]
+}

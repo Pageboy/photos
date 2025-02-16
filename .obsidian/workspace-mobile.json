@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "fd64f167a1ca34e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d63ae7d9c4ee0445",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91237fe662e2cb27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/photos/Hay bale transporters.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hay bale transporters"
+            }
+          },
+          {
+            "id": "e9e6c6fd6438ec88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/photos/Travels in Cambodia.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Travels in Cambodia"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e66b8c43608f8e3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "067faf30219200de",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "d4f01a57926afbdc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "5fd8f78238168486",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "9b282f65d1edc033",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "db57aabeff719724",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4b2f3a5ba6f88a0d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3cbcb7be8b02de87",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "docs/private/art/text for pieces/October 2024.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "4e6e6c6358fbafa6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "docs/private/art/text for pieces/October 2024.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "8bd7caeb03ec10e7",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      },
+      {
+        "id": "529e191f0ba82b87",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "129b7a225bc4ef19",
+        "type": "leaf",
+        "state": {
+          "type": "side-panel-control-view",
+          "state": {},
+          "icon": "viewIcon",
+          "title": "Markdown-Autocomplete"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "gpt3-notes:GPT-3 Notes": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e9e6c6fd6438ec88",
+  "lastOpenFiles": [
+    "docs/photos/Travels in Cambodia - 2.md",
+    "docs/About.md",
+    "docs/photos/Wall in Galle, Sri Lanka.md",
+    "private/photos/Arcs and Arches.md",
+    "docs/photos/Hay bale transporters.md",
+    "docs/photos/Eilean Mòr, MacCormaig Isles.md",
+    "docs/photos/Unhinged gate with baler twine 1.md",
+    "docs/photos/Fractal Tree.md",
+    "docs/photos/Starfish Drawing in Chalk on basalt rocks.md",
+    "docs/photos/Majestic Beech.md",
+    "docs/Tags.md",
+    "private/photos/Hay bale transporters.md",
+    "Hay bale transporters.md",
+    "private/photos/Majestic Beech.md",
+    "Majestic Beech.md",
+    "private/photos/Unhinged gate with baler twine.md",
+    "Unhinged gate with baler twine.md",
+    "Untitled 1.canvas",
+    "docs/photos/Some Bridges over the Thames.md",
+    "docs/photos/Travels in Cambodia.md",
+    "docs/index.md",
+    "docs/media/N72_1558.jpeg",
+    "docs/photos/Unhinged gate with baler twine.md",
+    "docs/photos/Gate at Minster Lovell.md",
+    "docs/private/art/text for pieces/April 2024.md",
+    "docs/private/art/text for pieces/October 2024.md",
+    "docs/private/art/Print sizes by theme.md",
+    "docs/Teaching/Digital Workflow/Week 6.md",
+    "docs/media/plan.jpg",
+    "docs/private/art/plan.jpg",
+    "docs/private/art/Cutting list for panels.pages",
+    "docs/media/Untitled.jpg",
+    "docs/private/art/Untitled.jpg",
+    "Untitled",
+    "docs/media/Pasted image 20240630134920.jpg",
+    "docs/media/_DSC7633.jpeg",
+    "docs/media/_DSC7828.jpeg",
+    "docs/media/_DSC7758.jpeg",
+    "docs/media/arch1.jpg",
+    "docs/private/Substack articles",
+    "docs/private/art/jenningsart",
+    "docs/media/id2rfl",
+    "docs/Teaching/Multiplatform Publishing/week7extras",
+    "docs/Teaching/DigitalProduct/Assignment 2.canvas",
+    "docs/private/Presentations",
+    "docs/Teaching/DigitalProduct/assignment1.canvas"
+  ]
+}

@@ -1,0 +1,137 @@
+site_name: Chris Jennings - his Photos
+site_description: My personal photo site
+site_author: ""
+site_url: https://photos.chrisjennings.net
+copyright: Copyright &copy; 2025 Chris Jennings
+repo_url: https://github.com/pageboy-photos/pageboy-photos.github.io
+extra:
+  social:
+    - icon: fontawesome/brands/instagram 
+      link: https://www.instagram.com/chris.jennings.art/
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/glightbox.min.css
+extra_javascript:
+  # - javascripts/jquery-1.10.2.min.js
+  - javascripts/glightbox.min.js
+  - javascripts/caption.js
+
+nav:
+  - Home: index.md
+  - About.md
+  - Tags.md
+  - 'My Art': 'https://www.chrisjennings.net'
+  - 'Subscribe': 'https://chrisjenningsart.substack.com/'
+
+theme:
+    name: 'material'
+    palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+    font:
+      text: Sen
+      code: Roboto Mono   
+
+
+    features:
+      - announce.dismiss
+      # - content.action.edit
+      # - content.action.view
+      # - content.code.annotate
+      - content.code.copy
+      # - content.code.select
+      # - content.footnote.tooltips
+      # - content.tabs.link
+      - content.tooltips
+      # - header.autohide
+      # - navigation.expand
+      - navigation.footer
+      - navigation.indexes
+      # - navigation.instant
+      # - navigation.instant.prefetch
+      # - navigation.instant.progress
+      # - navigation.prune
+      # - navigation.sections
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.top
+      - navigation.path
+      - navigation.tracking
+      - search.highlight
+      - search.share
+      - search.suggest
+      - toc.follow
+      - toc.integrate
+
+   
+# Extensions
+markdown_extensions:
+  - meta
+  - footnotes
+  - pymdownx.highlight:
+      anchor_linenums: false
+      use_pygments: true
+      linenums_style: pymdownx-inline
+  - pymdownx.superfences
+  - admonition
+
+  # - attr_list
+  # - pymdownx.arithmatex
+  # - pymdownx.superfences
+  # - pymdownx.details
+  # - pymdownx.magiclink
+  # - pymdownx.tasklist:
+  #     custom_checkbox: true
+#  - pymdownx.emoji:
+#      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - social
+  - roamlinks
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: false
+      auto_caption: true
+      caption_position: bottom
+  - callouts
+  - tags
+  - caption
+  - blog:
+      blog_dir: .
+      post_date_format: full
+      post_url_date_format: yyyy
+      post_readtime: false
+      post_dir: "photos"
+      blog_toc: true
+      archive_date_format: MMMM yyyy
+      pagination_per_page: 6
+      pagination_url_format: "page/{page}"
+  - rss:
+      match_path: photos/.* 
+      date_from_meta:
+        as_creation: date
