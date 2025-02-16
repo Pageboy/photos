@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/photos/Travels in Cambodia.md",
+                "file": "docs/photos/Elephant in Sri Lanka.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Travels in Cambodia"
+              "title": "Elephant in Sri Lanka"
             }
           },
           {
@@ -127,8 +127,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,14 +296,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58d6245799a4a8c6",
+  "active": "96e1716f39204596",
   "lastOpenFiles": [
+    "docs/About.md",
+    "docs/photos/Elephant in Sri Lanka.md",
+    "docs/photos/Travels in Cambodia.md",
+    "docs/photos/Wall in Galle, Sri Lanka.md",
     "docs/photos/Megalithic Landscapes.md",
     "docs/media/megalithiclandscapescover.jpg",
     "docs/photos/Some Bridges over the Thames.md",
-    "docs/photos/Travels in Cambodia.md",
     "docs/photos/Hay bale transporters.md",
-    "docs/photos/Wall in Galle, Sri Lanka.md",
     "Wall in Galle, Sri Lanka.md",
     "docs/Tags.md",
     "docs/photos/Starfish Drawing in Chalk on basalt rocks.md",
@@ -314,7 +315,6 @@
     "docs/photos/Unhinged gate with baler twine 1.md",
     "docs/photos/Travels in Cambodia - 2.md",
     "docs/photos/Travels in Cambodia - 1.md",
-    "docs/About.md",
     "About.md",
     "docs/photos/Killed Rabbit.md",
     "docs/photos/Gate at Minster Lovell.md",
