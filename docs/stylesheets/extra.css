@@ -158,7 +158,7 @@ p:has(img) {
 
 
 iframee {
-width:100% !important;
+max-width:100% !important;
 margin: 1rem auto;
 }
 
