@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/photos/Elephant in Sri Lanka.md",
-                "mode": "preview",
+                "file": "docs/About.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Elephant in Sri Lanka"
+              "title": "About"
             }
           },
           {
@@ -298,13 +298,13 @@
   },
   "active": "96e1716f39204596",
   "lastOpenFiles": [
-    "docs/About.md",
+    "docs/photos/Some Bridges over the Thames.md",
     "docs/photos/Elephant in Sri Lanka.md",
+    "docs/About.md",
     "docs/photos/Travels in Cambodia.md",
     "docs/photos/Wall in Galle, Sri Lanka.md",
     "docs/photos/Megalithic Landscapes.md",
     "docs/media/megalithiclandscapescover.jpg",
-    "docs/photos/Some Bridges over the Thames.md",
     "docs/photos/Hay bale transporters.md",
     "Wall in Galle, Sri Lanka.md",
     "docs/Tags.md",

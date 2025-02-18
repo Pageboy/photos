@@ -1,12 +1,13 @@
 ---
 date: 2025-02-04
-updated: 2025-02-10
+updated: 2025-02-17
 title: Some Bridges over the Thames
 tags:
   - River
   - Thames
 hide:
   - toc
+  - navigation
 ---
 ![Clifton Hampden](https://live.staticflickr.com/65535/54307154949_686fde7999_h_d.jpg)
 

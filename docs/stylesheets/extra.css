@@ -157,7 +157,9 @@ p:has(img) {
 }
 
 
-
+iframe {
+margin: 1rem auto;
+}
 
 
 /* @media screen and (max-width: 768px) {

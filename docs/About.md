@@ -1,6 +1,6 @@
 ---
 date: 2025-02-05
-updated: 2025-02-09
+updated: 2025-02-18
 title: About
 ---
 ## Introduction
@@ -12,7 +12,7 @@ I keep my photographs on Flickr because I really like the way I can easily keep 
 This site is published from a GitHub repository using the [MKDocs](https://www.mkdocs.org)  static site generator with the *[Material](https://squidfunk.github.io/mkdocs-material/getting-started/)* Theme. I have modified this quite a bit and added some plugins to make it work better as a photo site.
 
 ### How do I write and publish?
-Here’s the clever thing - I use [Obsidian](https://obsidian.md/)) to write the pages and then use the Git extension to _Push_ the pages up to GitHub which then generates the page.
+Here’s the clever thing - I use [Obsidian](https://obsidian.md/) to write the pages and then use the Git extension to _Push_ the pages up to GitHub which then generates the page.
 
 > [!todo] 
 > I will probably keep updating this page to get an even finer grain explanation. 
