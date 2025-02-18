@@ -157,7 +157,8 @@ p:has(img) {
 }
 
 
-#canvas-for-googlemap {
+iframee {
+width:100% !important;
 margin: 1rem auto;
 }
 

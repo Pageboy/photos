@@ -1,6 +1,6 @@
 ---
 date: 1984-08-12
-updated: 2025-02-12
+updated: 2025-02-18
 title: Megalithic Landscapes
 tags:
   - Landscape
@@ -18,7 +18,7 @@ The photographs were taken with film and eventually scanned for use on the web s
 
 ## Where is Ballochroy?
 
-<div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:600px;height:500px;"><div id="canvas-for-googlemap" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Balochroy&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="embed-ded-maphtml" href="https://kbj9qpmy.com/bp" id="get-map-data">Internet Provider</a><style>#canvas-for-googlemap img.text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8991.402181644622!2d-5.622518277683158!3d55.70896956879965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x488a1f4c2eabc059%3A0x423e16f41634c36e!2sBallochroy%2C%20Tarbert%20PA29%206XG!5e0!3m2!1sen!2suk!4v1739915578045!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## eBook available for free!
 

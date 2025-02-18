@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/About.md",
-                "mode": "source",
+                "file": "docs/photos/Megalithic Landscapes.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "About"
+              "title": "Megalithic Landscapes"
             }
           },
           {
@@ -298,9 +298,9 @@
   },
   "active": "96e1716f39204596",
   "lastOpenFiles": [
+    "docs/About.md",
     "docs/photos/Some Bridges over the Thames.md",
     "docs/photos/Elephant in Sri Lanka.md",
-    "docs/About.md",
     "docs/photos/Travels in Cambodia.md",
     "docs/photos/Wall in Galle, Sri Lanka.md",
     "docs/photos/Megalithic Landscapes.md",
