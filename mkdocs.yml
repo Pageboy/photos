@@ -3,7 +3,7 @@ site_description: My personal photo site
 site_author: ""
 site_url: https://photos.chrisjennings.net
 copyright: Copyright &copy; 2025 Chris Jennings
-repo_url: https://github.com/pageboy-photos/pageboy-photos.github.io
+repo_url: https://github.com/pageboy/photos/
 extra:
   social:
     - icon: fontawesome/brands/instagram 
