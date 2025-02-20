@@ -1,9 +1,10 @@
 ---
-date: 2020-05-12
-updated: 2025-02-08
+date: 1980-05-12
+updated: 2025-02-20
 title: Starfish Drawing in Chalk on basalt rocks
 tags:
   - Film
+  - Rock-Drawing
 ---
 
 
