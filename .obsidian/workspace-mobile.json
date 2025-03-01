@@ -8,37 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91237fe662e2cb27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/photos/Hay bale transporters.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hay bale transporters"
-            }
-          },
-          {
             "id": "e9e6c6fd6438ec88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/photos/Travels in Cambodia.md",
-                "mode": "preview",
+                "file": "daily/28-02-2025.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Travels in Cambodia"
+              "title": "28-02-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +46,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime",
+            "sortOrder": "byCreatedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -178,22 +153,12 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
-      },
-      {
-        "id": "529e191f0ba82b87",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {},
           "icon": "lucide-file",
           "title": "Plugin no longer active"
         }
       },
       {
-        "id": "129b7a225bc4ef19",
+        "id": "40a8cc475ff7c80e",
         "type": "leaf",
         "state": {
           "type": "side-panel-control-view",
@@ -201,9 +166,20 @@
           "icon": "viewIcon",
           "title": "Markdown-Autocomplete"
         }
+      },
+      {
+        "id": "9af8ea59bb33e34d",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 4,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,34 +198,34 @@
   },
   "active": "e9e6c6fd6438ec88",
   "lastOpenFiles": [
-    "docs/photos/Travels in Cambodia - 2.md",
-    "docs/About.md",
-    "docs/photos/Wall in Galle, Sri Lanka.md",
-    "private/photos/Arcs and Arches.md",
+    "daily/24-02-2025.md",
+    "daily/28-02-2025.md",
+    "daily/27-02-2025.md",
+    "daily/26-02-2025.md",
+    "daily/22-02-2025.md",
+    "docs/photos/Spider Drawing on Rock.md",
+    "daily/07-03-2023.md",
+    "daily/3-4-2022.md",
+    "daily/31-01-2023.md",
+    "daily/19 02 2022.md",
+    "daily/23-02-2025.md",
+    "daily/11-03-2023.md",
+    "daily/12-02-2023.md",
+    "daily/15-03-2023.md",
+    "daily/28-04-2024.md",
+    "daily/27-04-2024.md",
+    "daily/16-02-2023.md",
+    "daily/14-02-2023.md",
+    "daily/02-02-2023.md",
+    "daily/08-08-2023.md",
+    "daily/17-02-2023.md",
+    "docs/photos/Mushrooms drawn on Rock.md",
+    "daily/28-05-2024.md",
     "docs/photos/Hay bale transporters.md",
-    "docs/photos/Eilean Mòr, MacCormaig Isles.md",
-    "docs/photos/Unhinged gate with baler twine 1.md",
-    "docs/photos/Fractal Tree.md",
-    "docs/photos/Starfish Drawing in Chalk on basalt rocks.md",
-    "docs/photos/Majestic Beech.md",
-    "docs/Tags.md",
-    "private/photos/Hay bale transporters.md",
-    "Hay bale transporters.md",
-    "private/photos/Majestic Beech.md",
-    "Majestic Beech.md",
-    "private/photos/Unhinged gate with baler twine.md",
-    "Unhinged gate with baler twine.md",
-    "Untitled 1.canvas",
-    "docs/photos/Some Bridges over the Thames.md",
+    "docs/About.md",
     "docs/photos/Travels in Cambodia.md",
-    "docs/index.md",
+    "Untitled 1.canvas",
     "docs/media/N72_1558.jpeg",
-    "docs/photos/Unhinged gate with baler twine.md",
-    "docs/photos/Gate at Minster Lovell.md",
-    "docs/private/art/text for pieces/April 2024.md",
-    "docs/private/art/text for pieces/October 2024.md",
-    "docs/private/art/Print sizes by theme.md",
-    "docs/Teaching/Digital Workflow/Week 6.md",
     "docs/media/plan.jpg",
     "docs/private/art/plan.jpg",
     "docs/private/art/Cutting list for panels.pages",

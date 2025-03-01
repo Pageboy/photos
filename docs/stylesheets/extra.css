@@ -111,7 +111,7 @@ img {
 }
 
 .md-post--excerpt {
-  flex-basis: 380px;
+  flex-basis: 480px;
   border: solid rgb(94, 94, 94) 1px;
   flex-grow: 1;
   flex-shrink: 0;
@@ -159,7 +159,7 @@ p:has(img) {
 
 iframee {
 max-width:100% !important;
-margin: 1rem auto;
+margin: 1rem auto;ß
 }
 
 

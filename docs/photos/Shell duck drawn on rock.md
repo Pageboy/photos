@@ -1,11 +1,12 @@
 ---
 date: 1979-05-02
-updated: 2025-02-20
+updated: 2025-03-01
 title: Shell duck drawn on rock
 tags:
   - Film
   - Rock-Drawing
   - Sea
+Source: 5x4 Scanned
 ---
 
 

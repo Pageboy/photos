@@ -1,9 +1,10 @@
 ---
 date: 2020-02-06
-updated: 2025-02-03
+updated: 2025-03-01
 title: Mackerel on Stone
 tags:
   - Film
+Source: 5x4 Scanned
 ---
 
 ![A Mackerel caught from a feather lure, West Loch Tarbert, Ardpatrick, 1979](https://live.staticflickr.com/65535/49845397763_68eaeb090a_k.jpg)

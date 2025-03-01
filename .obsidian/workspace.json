@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/photos/Fish tail drawn with Chalk.md",
-                "mode": "preview",
+                "file": "docs/Tags.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fish tail drawn with Chalk"
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4e978aa72106384f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/photos/Swan and Feathers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Swan and Feathers"
             }
           },
           {
@@ -127,7 +151,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,8 +271,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -275,7 +300,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -296,36 +321,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96e1716f39204596",
+  "active": "4e978aa72106384f",
   "lastOpenFiles": [
-    "docs/photos/Crab drawing.md",
-    "docs/photos/Feather drawing.md",
-    "docs/photos/Shell duck drawn on rock.md",
-    "docs/photos/Pine cones drawn on Rock.md",
-    "docs/photos/Ant drawing.md",
-    "docs/photos/Fish tail drawn with Chalk.md",
-    "docs/photos/Mushrooms drawn on Rock.md",
-    "docs/photos/Spider Drawing on Rock.md",
-    "docs/photos/Deli with her mainsail up.md",
-    "docs/photos/Starfish Drawing in Chalk on basalt rocks.md",
     "docs/photos/Eilean Mòr, MacCormaig Isles.md",
-    "docs/photos/Travels in Cambodia.md",
-    "docs/photos/Gate No Longer Fits.md",
     "docs/photos/Gate at Minster Lovell.md",
-    "docs/photos/Gate by the river.md",
-    "docs/photos/Ground Peak.md",
-    "docs/photos/Killed Rabbit.md",
+    "docs/photos/Gate No Longer Fits.md",
+    "docs/photos/Wall in Galle, Sri Lanka.md",
+    "docs/photos/Unhinged gate with baler twine.md",
     "docs/photos/Some Bridges over the Thames.md",
-    "docs/photos/Elephant in Sri Lanka.md",
-    "docs/photos/Megalithic Landscapes.md",
     "docs/photos/Approaching the island of Tanera Móre.md",
-    "docs/photos/Untitled.md",
+    "docs/photos/Deli with her mainsail up.md",
+    "docs/photos/Feather drawing.md",
+    "docs/photos/Lines drawn on rocks.md",
     "docs/photos/Salmon on Shore Rocks.md",
+    "docs/photos/Gate by the river.md",
+    "docs/photos/Fractal Tree.md",
+    "docs/photos/Travels in Cambodia.md",
+    "docs/photos/Oxford Canal.md",
+    "docs/photos/Mackerel on Stone.md",
+    "docs/photos/Hay bale transporters.md",
+    "docs/photos/Swan and Feathers.md",
     "docs/photos/Spiral.md",
+    "docs/photos/Door at Dorchester Abbey.md",
+    "docs/photos/Killed Rabbit.md",
+    "docs/photos/Weeping Pine.md",
+    "docs/photos/Spider Drawing on Rock.md",
+    "docs/photos/Fish tail drawn with Chalk.md",
+    "docs/photos/Pine cones drawn on Rock.md",
+    "docs/photos/Starfish Drawing in Chalk on basalt rocks.md",
     "docs/javascripts/exif.js",
     "docs/exif.js",
-    "docs/About.md",
-    "docs/photos/Wall in Galle, Sri Lanka.md",
     "docs/media/megalithiclandscapescover.jpg",
     "private/photos",
     "private",

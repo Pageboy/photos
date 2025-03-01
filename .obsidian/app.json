@@ -32,7 +32,9 @@
     "editor:toggle-keyboard",
     "editor:configure-toolbar",
     "obsidian-markdown-formatting-assistant-plugin:open-callouts-selector",
-    "editor:insert-callout"
+    "editor:insert-callout",
+    "copy-as-html:copy-as-html-command",
+    "obsidian-markdown-formatting-assistant-plugin:open-command-selector"
   ],
   "mobilePullAction": "obsidian-markdown-formatting-assistant-plugin:open-command-selector",
   "showUnsupportedFiles": true,

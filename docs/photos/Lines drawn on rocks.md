@@ -1,9 +1,10 @@
 ---
 date: 2020-02-05
-updated: 2025-02-03
+updated: 2025-03-01
 title: Lines drawn on rocks
 tags:
   - Film
+Source: 5x4 Scanned
 ---
 ## 5 Rocks rearranged with chalk crosses
 ### Ardpatrick, 1979

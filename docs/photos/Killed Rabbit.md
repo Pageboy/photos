@@ -1,9 +1,10 @@
 ---
 date: 2020-02-06
-updated: 2025-02-04
+updated: 2025-03-01
 title: Killed Rabbit
 tags:
   - Film
+Source: 5x4 Scanned
 ---
 
 ![Rabbit hunted and killed with a shotgun, Ardpatrick, 1980](https://live.staticflickr.com/65535/49849909736_6372778ccc_3k.jpg)

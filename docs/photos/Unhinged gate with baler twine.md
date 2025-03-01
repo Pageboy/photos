@@ -1,9 +1,10 @@
 ---
 date: 2021-04-06
-updated: 2025-02-04
+updated: 2025-03-01
 title: Unhinged gate with baler twine
 tags:
   - Walks
+Source: Nikon Fc
 ---
 
 ![Gate leaning against post held with baler twine](https://live.staticflickr.com/65535/51095465103_a5bb8cb18f_k_d.jpg)

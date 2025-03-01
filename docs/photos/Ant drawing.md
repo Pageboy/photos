@@ -1,10 +1,11 @@
 ---
 date: 1979-06-20
-updated: 2025-02-20
+updated: 2025-03-01
 title: Ant Drawing
 tags:
   - Film
   - Rock-Drawing
+Source: 5x4 Scanned
 ---
 
 

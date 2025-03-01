@@ -1,10 +1,11 @@
 ---
 date: 1979-05-12
-updated: 2025-02-20
+updated: 2025-03-01
 title: Feather drawing
 tags:
   - Film
   - Rock-Drawing
+Source: 5x4 Scanned
 ---
 
 

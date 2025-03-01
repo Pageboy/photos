@@ -1,10 +1,11 @@
 ---
 date: 1984-08-12
-updated: 2025-02-19
+updated: 2025-03-01
 title: Megalithic Landscapes
 tags:
   - Landscape
   - Film
+Source: Mamiya Film Scanned
 ---
 ![Ballochroy stones, Knapdale, Scotland](https://live.staticflickr.com/65535/54319778972_5a0b42391a_h_d.jpg)
 

@@ -1,6 +1,6 @@
 ---
 date: 2025-02-04
-updated: 2025-02-17
+updated: 2025-03-01
 title: Some Bridges over the Thames
 tags:
   - River
@@ -8,6 +8,7 @@ tags:
 hide:
   - toc
   - navigation
+Source: Various
 ---
 ![Clifton Hampden](https://live.staticflickr.com/65535/54307154949_686fde7999_h_d.jpg)
 
