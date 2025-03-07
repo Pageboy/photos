@@ -157,19 +157,29 @@ p:has(img) {
 }
 
 
-iframee {
+iframe {
 max-width:100% !important;
-margin: 1rem auto;ß
+margin: 1rem auto;
 }
 
 
-/* @media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .md-post--excerpt {
-    flex-basis: 300px;
-  }
+    flex-basis: 380px;
+    border: none;
+    flex-grow: 1;
+    flex-shrink: 1;
+    /* flex-basis: 50%; */
+    /* max-width: 850px; */
+    /* min-width: 50px; */
+    padding: 1px 1em;
+    margin: 15px 0;
+    }
+
+
 }
 
-@media screen and (min-width: 1068px) {
+/* @media screen and (min-width: 1068px) {
   .md-post--excerpt {
     flex-basis: 500px;
   }
