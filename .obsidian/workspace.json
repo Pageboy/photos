@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/03-03-2025.md",
+                "file": "daily/08-03-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03-03-2025"
+              "title": "08-03-2025"
+            }
+          },
+          {
+            "id": "9cb27f814741f184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/photos/Arch under the Old Gasworks Bridge.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Arch under the Old Gasworks Bridge"
             }
           },
           {
@@ -152,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -300,7 +324,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -321,10 +345,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e978aa72106384f",
+  "active": "9cb27f814741f184",
   "lastOpenFiles": [
-    "daily/01-03-2025.md",
+    "docs/photos/Lines drawn on rocks.md",
+    "docs/photos/Arch under the Old Gasworks Bridge.md",
+    "daily/07-03-2025.md",
+    "daily/08-03-2025.md",
     "daily/03-03-2025.md",
+    "daily/01-03-2025.md",
     "daily/02-03-2025.md",
     "docs/photos/Swan and Feathers.md",
     "docs/photos/Eilean Mòr, MacCormaig Isles.md",
@@ -336,7 +364,6 @@
     "docs/photos/Approaching the island of Tanera Móre.md",
     "docs/photos/Deli with her mainsail up.md",
     "docs/photos/Feather drawing.md",
-    "docs/photos/Lines drawn on rocks.md",
     "docs/photos/Salmon on Shore Rocks.md",
     "docs/photos/Gate by the river.md",
     "docs/photos/Fractal Tree.md",
@@ -346,9 +373,6 @@
     "docs/photos/Hay bale transporters.md",
     "docs/photos/Spiral.md",
     "docs/photos/Door at Dorchester Abbey.md",
-    "docs/photos/Killed Rabbit.md",
-    "docs/photos/Weeping Pine.md",
-    "docs/photos/Spider Drawing on Rock.md",
     "docs/javascripts/exif.js",
     "docs/exif.js",
     "docs/media/megalithiclandscapescover.jpg",
