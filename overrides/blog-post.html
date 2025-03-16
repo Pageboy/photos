@@ -138,13 +138,9 @@
                         <div class="md-nav__link">
                           {% include ".icons/material/camera-image.svg" %}
                           <span class="md-ellipsis">
-                            {{ lang.t("blog.Source.in") }}
-                            {% for source in page.sources %}
-                              <a href="{{ Source.url | url }}">
-                                {{- source.title -}}
-                              </a>
-                              {%- if loop.revindex > 1 %}, {% endif -%}
-                            {% endfor -%}
+                            {{ lang.t("Source") }}
+                            {{- page.meta.Source -}}
+
                           </span>
                         </div>
                       </li>
