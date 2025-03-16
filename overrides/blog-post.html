@@ -99,15 +99,15 @@
                     </li>
 
                     <!-- Post date updated -->
-                    {% if page.meta.date.updated %}
+                    {% if page.meta.updated %}
                       <li class="md-nav__item">
                         <div class="md-nav__link">
                           {% include ".icons/material/calendar-clock.svg" %}
                           <time
-                            datetime="{{ page.meta.date.updated }}"
+                            datetime="{{ page.meta.updated }}"
                             class="md-ellipsis"
                           >
-                            {{- page.meta.date.updated | date -}}
+                            {{- page.meta.updated | date -}}
                           </time>
                         </div>
                       </li>
@@ -136,9 +136,9 @@
                     {% if page.meta.Source %}
                       <li class="md-nav__item">
                         <div class="md-nav__link">
-                          {% include ".icons/material/camera-image.svg" %}
+                          {% include ".icons/material/camera-iris.svg" %}
                           <span class="md-ellipsis">
-                            {{ lang.t("Source") }}
+                            {{ lang.t("Source: ") }}
                             {{- page.meta.Source -}}
 
                           </span>
