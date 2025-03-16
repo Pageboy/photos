@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/photos/Arch under the Old Gasworks Bridge.md",
+                "file": "docs/photos/Ground Peak.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arch under the Old Gasworks Bridge"
+              "title": "Ground Peak"
             }
           },
           {
@@ -347,8 +347,12 @@
   },
   "active": "9cb27f814741f184",
   "lastOpenFiles": [
+    "docs/photos/Oxford Canal.md",
+    "docs/photos/Salmon on Shore Rocks.md",
     "docs/photos/Lines drawn on rocks.md",
     "docs/photos/Arch under the Old Gasworks Bridge.md",
+    "overrides/blog-post.html",
+    "overrides",
     "daily/07-03-2025.md",
     "daily/08-03-2025.md",
     "daily/03-03-2025.md",
@@ -364,15 +368,12 @@
     "docs/photos/Approaching the island of Tanera Móre.md",
     "docs/photos/Deli with her mainsail up.md",
     "docs/photos/Feather drawing.md",
-    "docs/photos/Salmon on Shore Rocks.md",
     "docs/photos/Gate by the river.md",
     "docs/photos/Fractal Tree.md",
     "docs/photos/Travels in Cambodia.md",
-    "docs/photos/Oxford Canal.md",
     "docs/photos/Mackerel on Stone.md",
     "docs/photos/Hay bale transporters.md",
     "docs/photos/Spiral.md",
-    "docs/photos/Door at Dorchester Abbey.md",
     "docs/javascripts/exif.js",
     "docs/exif.js",
     "docs/media/megalithiclandscapescover.jpg",
@@ -391,8 +392,6 @@
     "docs/media/cambodia/_N723111.jpg",
     "docs/media/cambodia/_N723003.jpg",
     "docs/media/cambodia",
-    "docs/Photo Journal",
-    "docs/private/art/text for pieces/January 2025",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "docs/private/Teaching_Hold/DigitalProduct/assignment1.canvas",
