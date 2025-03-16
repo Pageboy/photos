@@ -122,6 +122,7 @@ plugins:
   - callouts
   - tags
   - caption
+  - meta
   - blog:
       blog_dir: .
       post_date_format: full
