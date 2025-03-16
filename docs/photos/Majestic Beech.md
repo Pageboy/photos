@@ -1,11 +1,12 @@
 ---
 date: 2020-12-06
-updated: 2025-02-08
+updated: 2025-03-16
 title: Majestic Beech
 tags:
   - Landscape
   - Walks
   - Trees
+Source: Nikon J5
 ---
 
 ![This tree is in Wytham Woods, Oxford](https://live.staticflickr.com/65535/50454264307_633d765d24_5k_d.jpg)

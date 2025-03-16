@@ -1,6 +1,6 @@
 ---
-date: 2020-02-20
-updated: 2025-03-01
+date: 1980-07-20
+updated: 2025-03-16
 title: Spider Drawing on Rock
 tags:
   - Film

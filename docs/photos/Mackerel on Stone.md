@@ -1,6 +1,6 @@
 ---
-date: 2020-02-06
-updated: 2025-03-01
+date: 1985-07-06
+updated: 2025-03-16
 title: Mackerel on Stone
 tags:
   - Film

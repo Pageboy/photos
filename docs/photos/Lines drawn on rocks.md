@@ -1,6 +1,6 @@
 ---
-date: 2020-02-05
-updated: 2025-03-01
+date: 1980-07-05
+updated: 2025-03-16
 title: Lines drawn on rocks
 tags:
   - Film

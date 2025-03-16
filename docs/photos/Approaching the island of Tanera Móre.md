@@ -1,6 +1,6 @@
 ---
-date: 2020-06-15
-updated: 2025-03-01
+date: 1982-07-15
+updated: 2025-03-16
 title: Approaching the island of Tanera Móre
 tags:
   - Film

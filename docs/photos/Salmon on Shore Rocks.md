@@ -1,6 +1,6 @@
 ---
-date: 2020-12-06
-updated: 2025-03-01
+date: 1985-06-06
+updated: 2025-03-16
 title: Salmon on Shore Rocks
 Source: 5x4 Scanned
 ---
