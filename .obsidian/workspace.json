@@ -61,9 +61,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/photos/Weeping Pine.md",
+                "file": "docs/About.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Weeping Pine"
+              "title": "About"
             }
           },
           {
@@ -347,6 +347,7 @@
   },
   "active": "9cb27f814741f184",
   "lastOpenFiles": [
+    "docs/photos/Weeping Pine.md",
     "docs/photos/Ground Peak.md",
     "docs/photos/Majestic Beech.md",
     "docs/photos/Crab drawing.md",
@@ -372,7 +373,6 @@
     "docs/photos/Door at Dorchester Abbey.md",
     "docs/photos/Spiral.md",
     "docs/photos/Oxford Canal.md",
-    "docs/photos/Swan and Feathers.md",
     "overrides/blog-post.html",
     "overrides",
     "docs/javascripts/exif.js",
