@@ -138,12 +138,3 @@ plugins:
       match_path: photos/.* 
       date_from_meta:
         as_creation: date
-  - document-dates:
-      type: date
-      locale: en
-      date_format: "%d. %B %Y"
-      time_format: '%H:%M:%S' 
-      position: bottom
-      exclude:
-        - index.md 
-        - tags.md  
