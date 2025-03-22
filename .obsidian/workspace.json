@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/About.md",
+                "file": "docs/photos/Bread Wheat.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "About"
+              "title": "Bread Wheat"
             }
           },
           {
@@ -347,7 +347,10 @@
   },
   "active": "9cb27f814741f184",
   "lastOpenFiles": [
+    "daily/22-03-2025.md",
+    "docs/photos/Bread Wheat.md",
     "docs/photos/Weeping Pine.md",
+    "docs/About.md",
     "docs/photos/Ground Peak.md",
     "docs/photos/Majestic Beech.md",
     "docs/photos/Crab drawing.md",
@@ -370,9 +373,6 @@
     "docs/photos/Gate at Minster Lovell.md",
     "docs/photos/Eilean Mòr, MacCormaig Isles.md",
     "docs/photos/Killed Rabbit.md",
-    "docs/photos/Door at Dorchester Abbey.md",
-    "docs/photos/Spiral.md",
-    "docs/photos/Oxford Canal.md",
     "overrides/blog-post.html",
     "overrides",
     "docs/javascripts/exif.js",

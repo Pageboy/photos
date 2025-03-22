@@ -16,6 +16,7 @@ extra_javascript:
   # - javascripts/jquery-1.10.2.min.js
   - javascripts/glightbox.min.js
   - javascripts/caption.js
+  - https://cdn.jsdelivr.net/npm/exif-js
 
 nav:
   - Home: index.md
