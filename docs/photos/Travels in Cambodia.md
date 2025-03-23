@@ -1,11 +1,12 @@
 ---
 date: 2025-01-28
-updated: 2025-03-01
+updated: 2025-03-23
 title: Travels in Cambodia
 tags:
   - Travels
   - Asia
 Source: Nikon 7ii
+posted: 2025-01-23
 ---
 ## Part 1 - Tomb raider
 
