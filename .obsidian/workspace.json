@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/photos/Bread Wheat.md",
+                "file": "docs/photos/Autumn at the Arboretum.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bread Wheat"
+              "title": "Autumn at the Arboretum"
             }
           },
           {
@@ -322,9 +322,19 @@
               "icon": "viewIcon",
               "title": "Markdown-Autocomplete"
             }
+          },
+          {
+            "id": "07c2ff50395e890d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -345,8 +355,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cb27f814741f184",
+  "active": "ba4e1e152eafb9cd",
   "lastOpenFiles": [
+    "docs/photos/Bread Wheat.md",
+    "docs/photos/Autumn at the Arboretum.md",
     "docs/photos/Travels in Cambodia.md",
     "overrides/blog-post.html",
     "overrides/partials/post.html",
@@ -354,7 +366,6 @@
     "overrides/hooks/sort_blog_updated.py",
     "overrides/hooks",
     "docs/photos/Wall in Galle, Sri Lanka.md",
-    "docs/photos/Bread Wheat.md",
     "daily/22-03-2025.md",
     "docs/photos/Weeping Pine.md",
     "docs/About.md",
@@ -377,7 +388,6 @@
     "docs/photos/Gate No Longer Fits.md",
     "docs/photos/Spider Drawing on Rock.md",
     "docs/photos/Gate at Minster Lovell.md",
-    "docs/photos/Eilean Mòr, MacCormaig Isles.md",
     "overrides",
     "docs/javascripts/exif.js",
     "docs/exif.js",
