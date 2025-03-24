@@ -347,6 +347,7 @@
   },
   "active": "9cb27f814741f184",
   "lastOpenFiles": [
+    "overrides/blog-post.html",
     "overrides/partials/post.html",
     "overrides/partials",
     "overrides/hooks/sort_blog_updated.py",
@@ -376,7 +377,6 @@
     "docs/photos/Spider Drawing on Rock.md",
     "docs/photos/Gate at Minster Lovell.md",
     "docs/photos/Eilean Mòr, MacCormaig Isles.md",
-    "overrides/blog-post.html",
     "overrides",
     "docs/javascripts/exif.js",
     "docs/exif.js",
