@@ -347,6 +347,8 @@
   },
   "active": "9cb27f814741f184",
   "lastOpenFiles": [
+    "overrides/partials/post.html",
+    "overrides/partials",
     "overrides/hooks/sort_blog_updated.py",
     "overrides/hooks",
     "docs/photos/Wall in Galle, Sri Lanka.md",
@@ -382,8 +384,6 @@
     "private/photos",
     "private",
     "docs/Photos/posts",
-    "docs/Photos",
-    "docs/javascripts/caption.js",
     "docs/media/cambodia/_N723133.jpg",
     "docs/media/cambodia/_N723029.jpg",
     "docs/media/cambodia/_N722984.jpg",
