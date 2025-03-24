@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "8650f811047bfd94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "58d6245799a4a8c6",
             "type": "leaf",
             "state": {
@@ -176,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -355,10 +379,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba4e1e152eafb9cd",
+  "active": "8650f811047bfd94",
   "lastOpenFiles": [
-    "docs/photos/Bread Wheat.md",
     "docs/photos/Autumn at the Arboretum.md",
+    "conflict-files-obsidian-git.md",
+    "docs/photos/Bread Wheat.md",
     "docs/photos/Travels in Cambodia.md",
     "overrides/blog-post.html",
     "overrides/partials/post.html",
@@ -387,7 +412,6 @@
     "docs/photos/Unhinged gate with baler twine.md",
     "docs/photos/Gate No Longer Fits.md",
     "docs/photos/Spider Drawing on Rock.md",
-    "docs/photos/Gate at Minster Lovell.md",
     "overrides",
     "docs/javascripts/exif.js",
     "docs/exif.js",
