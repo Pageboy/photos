@@ -106,6 +106,9 @@ markdown_extensions:
   - toc:
       permalink: true
 
+hooks:
+  - overrides/hooks/sort_blog_updated.py
+
 plugins:
   - search
   - social
