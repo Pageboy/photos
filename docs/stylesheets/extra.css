@@ -11,7 +11,7 @@
 
   /* --md-typeset-color: hsla(12, 60%, 49%, 0.918); */
 
-  --md-typeset-a-color: hsl(27, 42%, 51%);
+  --md-typeset-a-color: hsl(27, 18%, 45%);
 
   /* --md-typeset-mark-color: hsla(49, 42%, 51%, 0.918); */
 
@@ -54,7 +54,7 @@ article h2 {
 }
 
 article h2 {
-  color: rgb(124, 75, 35);
+  color: rgb(107, 104, 101);
 }
 
 article h3 {

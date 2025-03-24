@@ -1,6 +1,6 @@
 ---
 date: 2022-06-24
-updated: 2025-03-01
+updated: 2025-03-24
 title: Spiral
 tags:
   - Travels
@@ -12,4 +12,5 @@ Source: iPhone
 
 This is what it looks like when you walk down the spiral stairs at the famous Sagrada Familia Cathedral in Barcelona.
 
+<!-- more -->
 [More about this on WikiPedia](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia)
