@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "8650f811047bfd94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "58d6245799a4a8c6",
             "type": "leaf",
             "state": {
@@ -200,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -379,7 +355,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8650f811047bfd94",
+  "active": "07c2ff50395e890d",
   "lastOpenFiles": [
     "docs/photos/Autumn at the Arboretum.md",
     "conflict-files-obsidian-git.md",
