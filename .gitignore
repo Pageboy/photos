@@ -4,4 +4,12 @@
 
 docs/private/
 
-.obsidian/**
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+.obsidian/plugins/**
+
+
+### Include git plugin settings
+!.obsidian/plugins/obsidian-git/
+!.obsidian/plugins/obsidian-git/data.json

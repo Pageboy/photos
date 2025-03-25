@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "fd64f167a1ca34e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "88937eb9f4bb38f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a28d08bd4833ca7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e66b8c43608f8e3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "067faf30219200de",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "d4f01a57926afbdc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5fd8f78238168486",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4b2f3a5ba6f88a0d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3cbcb7be8b02de87",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4e6e6c6358fbafa6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8bd7caeb03ec10e7",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "529e191f0ba82b87",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "active": "6a28d08bd4833ca7",
+  "lastOpenFiles": [
+    "docs/Teaching/Multiplatform Publishing/Week 4 part 2.md",
+    "docs/Teaching/DigitalProduct/Week 4.md",
+    "docs/Teaching/DigitalProduct/Week 3.md",
+    "docs/Articles/Sharing to Facebook and Twitter.md",
+    "daily/19-02-2023.md",
+    "docs/Articles/Footnotes and other Diversions.md",
+    "README.md",
+    "docs/private/Teaching_Hold/Multiplatform Publishing/Week 4.md",
+    "docs/private/bare/Recipe eBook - Final steps.md",
+    "docs/private/bare/Week 4.5.md"
+  ]
+}
